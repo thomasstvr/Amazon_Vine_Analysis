@@ -11,3 +11,13 @@ The data (found here: [Amazon Review datasets]( https://s3.amazonaws.com/amazon-
 Once the data could be easily viewed it was then sorted to only include reviews which had more than 20 votes and had a helpful vote to total vote ratio of at least 50%.
 
 ![]( https://github.com/thomasstvr/Amazon_Vine_Analysis/blob/main/Resources/helpful_reviews_df.png) 
+
+From here, the data was split into two groups: Vine reviews and Non-Vine reviews.
+
+![]( https://github.com/thomasstvr/Amazon_Vine_Analysis/blob/main/Resources/vine_reviews_df.png)
+Vine reviews.
+
+![]( https://github.com/thomasstvr/Amazon_Vine_Analysis/blob/main/Resources/nonvine_reviews_df.png)
+Non-Vine reviews.
+
+
